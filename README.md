@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Seja Bem-Vindo</h1>
-  <span size="5px">Teste</span>
+  <span font-size="5px">Teste</span>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="GustaCastro-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
