@@ -19,6 +19,8 @@
     <a href="https://www.linkedin.com/in/gustacastro" target="_blank"><img height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
     <a href="https://app.rocketseat.com.br/me/gustavocastro" target="_blank"><img height="30" width="40"src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" target="_blank"></a> 
  
+  ##
+  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
