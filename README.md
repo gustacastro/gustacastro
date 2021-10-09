@@ -1,4 +1,4 @@
-<div align="center">## Seja Bem-Vindo </div>
+<div align="center" font-size="24px">Seja Bem-Vindo </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="GustaCastro-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="GustaCastro-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
