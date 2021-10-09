@@ -7,17 +7,13 @@
   <img align="center" alt="GustaCastro-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 <br>
-  
-  ##
- 
+
 <div align="center">
   <a href="https://github.com/gustacastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustacastro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustacastro&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-  
-  ##
- 
+
 <div align="center"> 
     <a href="https://www.facebook.com/gustavo.nunes.10236" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/gustacastro" target="_blank"><img height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
