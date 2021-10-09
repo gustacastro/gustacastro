@@ -1,4 +1,4 @@
-<div align="center">Seja Bem-Vindo </div>
+<div align="center"><h1>Seja Bem-Vindo</h1></div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="GustaCastro-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="GustaCastro-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
@@ -6,7 +6,7 @@
   <img align="center" alt="GustaCastro-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="GustaCastro-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
-  ##
+
 <div align="center">
   <a href="https://github.com/gustacastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustacastro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
